@@ -1,0 +1,52 @@
+Oops - Stands for Object oriented programming structure
+
+Using Oops concepts we can write a well structured code 
+Easy to maintain and understand the code base 
+we can achive reusebility and flexebility , scalability 
+
+There are 4 features or pillers of object orirnted programming concepts
+
+1) Encapsulation - Encapsulation is a mechanism through which we can bind the 
+                   data members and member methods in a single unit with data hiding
+  Encapsulation - we can achive Encapsulation using getter and setters 
+                  without this we cannot achive Encapsulation..
+
+  Encapsulation = Data hiding + abstraction 
+
+
+2) abstraction - abstraction is nothing but hiding an implimentation and highlighting
+                 set of servicess
+                 or
+                 hiding the background details and highlighting the servicess..
+                 
+   using an abstract classes we can achive abstraction 99 % 
+   we cannot achive 100% abstraction using abstract classes
+
+   Interfaces - using an Interfaces we can achive 100% abstraction
+   becouse Interfaces have only abstract methods .
+
+   abstract classes - have abstract and non abstract methods ..
+
+
+3) Inheritance - Inheritance is nothing but whenever we want to create a new class 
+                 from an existing class , that new class can access the properties 
+                 and behaviours of existing class its called inheritance
+
+   There are 4 types of Inheritance is present 
+   1) simple / single Inheritance
+   2) multi -level inheritance
+   3) multiple inheritance 
+   4) Hiraricle inheritance 
+
+
+4) Polymorphism - its a greek word whose meaning is same object having a different bihaviour
+
+   poly means - many 
+   morphism means - form  
+    = many form 
+
+ There are 2 types of polymorphism 
+  1) Compiletime polymorphism
+  2) Run time polymorphism
+
+  NOTE : I will explain all these concepts with code .......come lets dive into oops 
